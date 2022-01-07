@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieList</string>
+
+    <string name="tv_vote_average">Vote Average: </string>
+    <string name="tv_title">Popular Movies</string>
+
+    <string name="btn_change_language">EN</string>
+</resources>

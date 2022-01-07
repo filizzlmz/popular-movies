@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieList</string>
+
+    <string name="tv_vote_average">Oy Ortalaması: </string>
+    <string name="tv_title">Popüler Filmler</string>
+
+    <string name="btn_change_language">TR</string>
+</resources>
